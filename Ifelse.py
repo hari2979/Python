@@ -1,7 +1,7 @@
-hari = input()
+hari = input(He will become:)
 if (hari == "Job"):
-    print ("He will become a Devops engineer")
+    print ("Devops engineer")
 else:
-    print ("He will become a Cloud engineer")
+    print ("Cloud engineer")
 
     
